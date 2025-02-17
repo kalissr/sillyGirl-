@@ -10,3 +10,6 @@ sillyGirl傻妞插件
 傻妞插件-千寻对接傻妞微信机器人框架详细教程：https://cloud.tencent.com/developer/article/2243656
 
 腾讯云key申请：https://console.cloud.tencent.com/lkeap
+
+有问题可以加群
+![f2d142d9419af9593eb9aa71764201b](https://github.com/user-attachments/assets/dd45526a-c6fb-46f0-ac53-0b389bc17545)
