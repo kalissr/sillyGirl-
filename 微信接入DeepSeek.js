@@ -19,11 +19,11 @@ async function main() {
             s.reply("傻妞：\n正在启动认知引擎...（复杂问题可能需要10-15秒深度推理）");
         }
 
-        const response = await fetch("https://api.lkeap.cloud.tencent.com/v1/chat/completions", {  #腾讯云接口
+        const response = await fetch("https://api.lkeap.cloud.tencent.com/v1/chat/completions", {  //腾讯云接口
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
-                Authorization: `Bearer sk-BjuL6BF2eMHqPAG` #腾讯云sk用自己的ok？
+                Authorization: `Bearer sk-BjuL6BF2eMHqPAG` //腾讯云sk用自己的ok？
             },
             body: JSON.stringify({
                 model: "deepseek-r1",
